@@ -71,3 +71,12 @@ div.task {
 div.my-field {
     padding-bottom: 10px;
 }
+.status-0 {
+    border: 1px solid green;
+}
+.status-3 {
+    border: 1px solid darkred
+}
+.status-9 {
+    border: 1px solid grey;
+}
